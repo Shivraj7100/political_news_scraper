@@ -1,0 +1,13 @@
+sqlalchemy[asyncio]>=2.0
+asyncpg
+pgvector
+pydantic>=2
+pydantic-settings
+httpx
+feedparser
+trafilatura
+praw
+telethon
+playwright
+langdetect
+beautifulsoup4
